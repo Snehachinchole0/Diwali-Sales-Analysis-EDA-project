@@ -1,7 +1,3 @@
-# Diwali-Sales-Analysis-EDA-project
-Here's a sample README for a Diwali Sales Analysis EDA project:
-
----
 
 # Diwali Sales Analysis - Exploratory Data Analysis (EDA)
 
